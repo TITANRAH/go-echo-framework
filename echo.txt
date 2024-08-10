@@ -1,0 +1,16 @@
+1. instalar fresh go get github.com/pilu/fresh
+2. correr  fresh go run github.com/pilu/fresh
+3. go get github.com/joho/godotenv
+4. go get github.com/labstack/echo/v4
+
+5. ALTERNATIVA DE RESPUESTA github.com/aws/smithy-go/encoding/json
+
+6. cors https://echo.labstack.com/docs/middleware/cors
+"github.com/labstack/echo/v4/middleware"
+go get github.com/labstack/echo/v4/middleware@v4.12.0
+
+7. https://github.com/mongodb/mongo-go-driver
+
+"go.mongodb.org/mongo-driver/mongo"
+
+https://jwt.io/ aqui puedo pasar el token generado en el login y vere la data que le inclui
